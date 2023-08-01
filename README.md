@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on React native
+- 🌱 I’m currently learning algorithms
+- 👯 I’m looking to collaborate on test
+- 🤔 I’m looking for help with node js
+- 💬 Ask me about anything related to js
+- 📫 How to reach me: usmanarain7755@gmail.com
+- ⚡ Fun fact: sky is not blue
+
+
 <!--
 **usmanthesuper/usmanthesuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
